@@ -1,6 +1,7 @@
 ## Welcome to GitHub Games
 
 A project based learning activity for people who are getting started with Git and GitHub.
+NEW UPDATE
 
 You can play the game at: https://gh-dev-saveonfoods.github.io/github-games-AlanGunadio/
 
